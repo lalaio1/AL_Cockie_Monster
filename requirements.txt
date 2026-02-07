@@ -1,0 +1,11 @@
+customtkinter
+Flask
+Flask_Cors
+flask_limiter
+flask_swagger_ui
+ipwhois
+pycountry
+Requests
+pystyle
+psutil
+tqdm

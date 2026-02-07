@@ -1,0 +1,6 @@
+{
+  "max_workers": 16,
+  "timeout_validate": 1,
+  "timeout_filter": 5,
+  "timeout_analyze": 5
+}
